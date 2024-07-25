@@ -1,0 +1,4090 @@
+[
+    {
+        "Nama Perusahaan": "PT. Thea Universal Trade",
+        "Tanggal": "5/6/2023",
+        "Nama Produk": "Nutmeg Pala",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.5, 
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Gelora Samudra Indolog",
+        "Tanggal": "6/6/2023",
+        "Nama Produk": "Tuna Frozen",
+        "Logam": {
+            "As": 0.25,
+            "Pb": 0.4,
+            "Hg": 1,
+            "Cd": 0.3,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 10,
+            "Salmonella": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Gelora Samudra Indolog",
+        "Tanggal": "6/6/2023",
+        "Nama Produk": "Cumi, Kerang Frozen",
+        "Logam": {
+            "As": 0.25,
+            "Pb": 0.2,
+            "Hg": 0.5,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 10,
+            "Salmonella": 0,
+            "Vibrio Parahaemolyticus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Mandiri Bumi Perkasa",
+        "Tanggal": "6/6/2023",
+        "Nama Produk": "Jahe (Ginger)",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacterial": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Mandiri Bumi Perkasa",
+        "Tanggal": "6/6/2023",
+        "Nama Produk": "Krupuk",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Global Vision Inpex",
+        "Tanggal": "6/6/2023",
+        "Nama Produk": "Jahe (Ginger)",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Golden Union Oil",
+        "Tanggal": "6/6/2023",
+        "Nama Produk": "RBD Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Angka Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Golden Union Oil",
+        "Tanggal": "6/6/2023",
+        "Nama Produk": "Crude Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Angka Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Golden Union Oil",
+        "Tanggal": "6/6/2023",
+        "Nama Produk": "ocon",
+        "Logam": {
+            "As": 1,
+            "Pb": 1,
+            "Hg": 0.03,
+            "Cd": 0.85,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Lahud Jaya Abadi",
+        "Tanggal": "7/6/2023",
+        "Nama Produk": "Crackers",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.25,
+            "Hg": 0.05,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Lahud Jaya Abadi",
+        "Tanggal": "7/6/2023",
+        "Nama Produk": "Ketumbar (Coriander)",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.05,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 200,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Sari Mas Permai",
+        "Tanggal": "7/6/2023",
+        "Nama Produk": "RBD Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Angka Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Citra Rasa Sukses",
+        "Tanggal": "8/6/2023",
+        "Nama Produk": "Garlic Powder",
+        "Logam": {
+            "As": 0.5,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 1000,
+            "Salmonella": 0,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Lintas Buana",
+        "Tanggal": "13/6/2023",
+        "Nama Produk": "Tepung Tapioka",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 11,
+            "Salmonella": 0,
+            "Bacillus cereus": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Mahajaya Sukses",
+        "Tanggal": "13/6/2023",
+        "Nama Produk": "Biscuit Oreo",
+        "Logam": {
+            "As": 0.25,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Maju Pangan",
+        "Tanggal": "14/6/2023",
+        "Nama Produk": "Krupuk",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Bigfam Global",
+        "Tanggal": "15/6/2023",
+        "Nama Produk": "Fresh Ginger",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Percaya Berkat Utuh",
+        "Tanggal": "16/6/2023",
+        "Nama Produk": "Fresh Ginger",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Saudagar Alam Sejahtera",
+        "Tanggal": "16/6/2023",
+        "Nama Produk": "Fresh Ginger",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Karya Indah Alam Sejahtera",
+        "Tanggal": "16/6/2023",
+        "Nama Produk": "Crude Palm Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {}
+    },
+    {
+        "Nama Perusahaan": "PT. Karya Indah Alam Sejahtera",
+        "Tanggal": "16/6/2023",
+        "Nama Produk": "Palm Fatty Acid Distillate",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {}
+    },
+    {
+        "Nama Perusahaan": "PT. Citra Centra Pacific",
+        "Tanggal": "19/6/2023",
+        "Nama Produk": "Crackers",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.25,
+            "Hg": 0.05,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Berkat Trisma Sejati",
+        "Tanggal": "19/6/2023",
+        "Nama Produk": "Coconut Nectar",
+        "Logam": {
+            "As": 1,
+            "Pb": 2,
+            "Hg": 0.05,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Bintang Andara Perkasa",
+        "Tanggal": "22/6/2023",
+        "Nama Produk": "Jahe (Ginger)",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 0.15,
+            "Enterobacter": 1,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Hakiki Donarta",
+        "Tanggal": "27/6/2023",
+        "Nama Produk": "Aglupectin",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.2,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 100,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Japfa Comfeed",
+        "Tanggal": "5/7/2023",
+        "Nama Produk": "RBD Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Peroxide Value": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Tiga Rukun Usaha",
+        "Tanggal": "5/7/2023",
+        "Nama Produk": "Permen Lunak (Jelly) Yuppi Gummi",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 0.4,
+            "Hg": 0.03,
+            "Cd": 0.2
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Tiga Rukun Usaha",
+        "Tanggal": "5/7/2023",
+        "Nama Produk": "Permen Lunak (Jelly) Mentos Mint",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 0.4,
+            "Hg": 0.03,
+            "Cd": 0.2
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Olam Indonesia",
+        "Tanggal": "10/7/2023",
+        "Nama Produk": "Biji Kokoa",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.2,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 100,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Natural Java Spice",
+        "Tanggal": "11/7/2023",
+        "Nama Produk": "Mace",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Satoria Agro",
+        "Tanggal": "13/7/2023",
+        "Nama Produk": "Coconut Cream Powder",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.02,
+            "Cd": 0.03,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Hakiki Donarta",
+        "Tanggal": "13/7/2023",
+        "Nama Produk": "Food Stabilizer Type JB Crystal Gel 21",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 0.2,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 100,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Indokom Citrapersada",
+        "Tanggal": "17/7/2023",
+        "Nama Produk": "Biji Kopi",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 2.0,
+            "Hg": 0.03,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Anugrah Nian Gemilang",
+        "Tanggal": "17/7/2023",
+        "Nama Produk": "Maxicorn Tortilla Chips",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Anugrah Nian Gemilang",
+        "Tanggal": "17/7/2023",
+        "Nama Produk": "Fox Candy Fruits",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 0.4,
+            "Hg": 0.03,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Sumber Asia trading",
+        "Tanggal": "18/7/2023",
+        "Nama Produk": "Fish Meal",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.3,
+            "Hg": 0.5,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 3.6,
+            "Salmonella": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Ambico",
+        "Tanggal": "20/7/2023",
+        "Nama Produk": "Dry Shirataki A/155",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Hoindo",
+        "Tanggal": "25/7/2023",
+        "Nama Produk": "Krupuk Udang",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. TV Sejahtera",
+        "Tanggal": "28/07/2023",
+        "Nama Produk": "Rosella Flower",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "Lautan Natural Krimerindo",
+        "Tanggal": "1/8/2023",
+        "Nama Produk": "Krimer",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.02,
+            "Hg": 0.02,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 0,
+            "Salmonella": 0,
+            "Stapilococus aureus": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. SMP",
+        "Tanggal": "2/8/2023",
+        "Nama Produk": "RBD Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Angka Peroksida": 10
+    },
+    {
+        "Nama Perusahaan": "PT. Damai Karya Abadi",
+        "Tanggal": "8/2/2023",
+        "Nama Produk": "Mini Oreo Biscuit",
+        "Logam": {
+            "As": 0.25,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 50000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Sentral Pangan Utama",
+        "Tanggal": "2/8/2023",
+        "Nama Produk": "Mie Tepung",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 0,
+            "Salmonella": 0,
+            "Kapang": 10,
+            "Khamir": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Natural Java Spice",
+        "Tanggal": "7/8/2023",
+        "Nama Produk": "Cassia Powder 1,5% V0 Asta",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": "",
+            "Enterobacter": 1000,
+            "Salmonella": 0,
+            "Bacillus cereus": 10000,
+            "Clostridium perfringer": 1000,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. AK Goldenesia",
+        "Tanggal": "9/8/2023",
+        "Nama Produk": "Vegetable Margarine E/Sungold Brand",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Bacillus cereus": 10000,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Damai Karya Abadi",
+        "Tanggal": "10/8/2023",
+        "Nama Produk": "Keripik Singkong Kusuka",
+        "Logam": {
+            "As": 0.25,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Mahajaya Suksesindo",
+        "Tanggal": "11/8/2023",
+        "Nama Produk": "Permen Fox",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Citra Centra Pasific",
+        "Tanggal": "11/8/2023",
+        "Nama Produk": "Garlic Crackers",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Salmonella":  0,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Frut/Ing Indonesia",
+        "Tanggal": "11/8/2023",
+        "Nama Produk": "Jus Buah",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.02,
+            "Cd": 0.03,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "E.coli": 1000,
+            "Salmonella":  0,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Rajdular Brothers",
+        "Tanggal": "14/08/2023",
+        "Nama Produk": "Kapulaga",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.5,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Rajdular Brothers",
+        "Tanggal": "21/08/2023",
+        "Nama Produk": "Papua Mace, Clove Kalpari, Long Pepper, Clove Stems",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Surya Sakti",
+        "Tanggal": "24/08/2023",
+        "Nama Produk": "PAPAD (Snacks and Savouries)",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "UD Cahaya Kencana",
+        "Tanggal": "1/9/2023",
+        "Nama Produk": "Chicken Flavour",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Karunia Lumbung Mulia",
+        "Tanggal": "11/9/2023",
+        "Nama Produk": "Crackers",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Salmonella":  0,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Aury Makmur",
+        "Tanggal": "12/9/2023",
+        "Nama Produk": "Bawang Merah",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 0,
+            "Salmonella":  0,
+            "Listeria Monocytogene": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Paracha Impex",
+        "Tanggal": "14/09/2023",
+        "Nama Produk": "Clove, Nutmeg, Mace, Long Pepper",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. RMDMS Yanto Indonesia",
+        "Tanggal": "14/09/2023",
+        "Nama Produk": "Kayu Manis",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Surya Mas",
+        "Tanggal": "14/09/2023",
+        "Nama Produk": "Mace, Long Pepper, Nutmeg",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Harumi Alam Nusantara",
+        "Tanggal": "18/09/2023",
+        "Nama Produk": "Fresh Ginger",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 10000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Damai Kaya Abadi",
+        "Tanggal": "19/09/2023",
+        "Nama Produk": "Pringles",
+        "Logam": {
+            "As": 0.25,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Produk": "Pocari Sweat",
+        "Logam": {
+            "As": 0.05,
+            "Pb": 0.05,
+            "Hg": 0.01,
+            "Cd": 0.01,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "coliform": 10,
+            "Pseudomonas Aeruserosa": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PTPN XII Surabaya",
+        "Tanggal": "19/09/2023",
+        "Nama Produk": "Coffe Bean",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 2.0,
+            "Hg": 0.03,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Lumbung Pangan Jaya",
+        "Tanggal": "25/09/2023",
+        "Nama Produk": "PAPAD (Snacks and Savouries)",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Sari Makmur Tunggal Mandiri",
+        "Tanggal": "26/09/2023",
+        "Nama Produk": "Kunyit Kering Instan",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 100000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Shionchem",
+        "Tanggal": "9/1/2023",
+        "Nama Produk": "Hydrogenated Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Angka Peroksida": "10"
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Rajdular Brothers",
+        "Tanggal": "9/1/2023",
+        "Nama Produk": "White Cordamom",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT Indo Oil Perkasa Tbk.",
+        "Tanggal": "Oktober 2023",
+        "Nama Produk": "Crude Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100,
+            "Enterobacter": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT Aury Makmur",
+        "Tanggal": "Oktober 2023",
+        "Nama Produk": "Teh Botol Sosro",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 2.0,
+            "Hg": 0.03,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000,
+            "E.coli": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Aneka Kakao",
+        "Tanggal": "Oktober 2023",
+        "Nama Produk": "Cocoa Powder",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 1.0,
+            "Hg": 0.03,
+            "Cd": 0.85,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Anugerah Nian Gemilang",
+        "Tanggal": "Oktober 2023",
+        "Nama Produk": "Fanta",
+        "Logam": {
+            "As": 0.05,
+            "Pb": 0.05,
+            "Hg": 0.01,
+            "Cd": 0.01,
+            "Sn": 100
+        },
+        "Mikrobiologi": {
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Yama Ekspress",
+        "Tanggal": "Oktober 2023",
+        "Nama Produk": "Coffe Bean",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 2.0,
+            "Hg": 0.03,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Golden Union Oil",
+        "Tanggal": "Oktober 2023",
+        "Nama Produk": "Premium RBD Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Angka peroxida": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Coco Indonesia Maju",
+        "Tanggal": "27/10/2023",
+        "Nama Produk": "Dessicated Coconut",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.2,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Tana Nata Asia",
+        "Tanggal": "30/10/2023",
+        "Nama Produk": "Konjac Chips",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Aury Makmur",
+        "Tanggal": "11/1/2023",
+        "Nama Produk": "Pop Mie Dry Noodle",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.3,
+            "Hg": 0.03,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 0,
+            "Salmonella":  0,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Produk": "Beer Bintang Minuman Beralkohol",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.2,
+            "Hg": 0.03,
+            "Cd": 0.2,
+            "Sn": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Adidaya Swasembada",
+        "Tanggal": "11/1/2023",
+        "Nama Produk": "Tamarind With Seed",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.2,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "E.coli": 100,
+            "Salmonella": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Landkrone Indo Nutri",
+        "Tanggal": "11/1/2023",
+        "Nama Produk": "Margarita Vegetable Fat",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Eka Timur Raya",
+        "Tanggal": "11/1/2023",
+        "Nama Produk": "Mushroom Powder",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.2,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 100,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Sumba Subur",
+        "Tanggal": "11/1/2023",
+        "Nama Produk": "Dried Turmeric Slice",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 100000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Shionchem Global Indo",
+        "Tanggal": "13/11/2023",
+        "Nama Produk": "Crued Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Angka Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Nona Kreasi Pangan Indonesia",
+        "Tanggal": "13/11/2023",
+        "Nama Produk": "Krupuk",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Daesang Ingredients",
+        "Tanggal": "16/11/2023",
+        "Nama Produk": "Corn Gluten",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 11,
+            "Salmonella": 0,
+            "Bacillus cereus": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Daesang Ingredients",
+        "Tanggal": "16/11/2023",
+        "Nama Produk": "High Fruktosa Corn Shrimp",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "E.coli": 0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Bintang Tunggal Sejati",
+        "Tanggal": "20/11/2023",
+        "Nama Produk": "Robusta Coffe Grade I",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 2.0,
+            "Hg": 0.03,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Siantar Top",
+        "Tanggal": "23/11/2023",
+        "Nama Produk": "Tomato Powder",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.2,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Siantar Top",
+        "Tanggal": "23/11/2023",
+        "Nama Produk": "Chili Sauce",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Clostridium perfringer": 1000,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Batara Elok Semesta Terpadu",
+        "Tanggal": "23/11/2023",
+        "Nama Produk": "Shortening",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000,
+            "Enterobacter": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Batara Elok Semesta Terpadu",
+        "Tanggal": "23/11/2023",
+        "Nama Produk": [
+            "RBD PALM",
+            "Palm Fatty oil",
+            "RBD kernel oil",
+            "Palm fatty distillate (PFAD)",
+            "Crude glycerine",
+            "RBD steam",
+            "Biodiesel/fame"
+        ],
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Bilangan peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. All Seasons",
+        "Tanggal": "23/11/2023",
+        "Nama Produk": "Cocoa Powder",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 1.0,
+            "Hg": 0.03,
+            "Cd": 0.85,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Welgrow Indopersada",
+        "Tanggal": "28/11/2023",
+        "Nama Produk": "Cashew Nuts",
+        "Logam": {
+            "As": 0.0,
+            "Pb": 0.0,
+            "Hg": 0.0,
+            "Cd": 0.0,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 10,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Golden Union",
+        "Tanggal": "28/11/2023",
+        "Nama Produk": "RBD Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Angka Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Golden Union",
+        "Tanggal": "28/11/2023",
+        "Nama Produk": "Cocoa Powder",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.85,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Surya Pratista Hutama",
+        "Tanggal": "29/11/2023",
+        "Nama Produk": "Noodles",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.3,
+            "Hg": 0.03,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 3,
+            "Bacillus cereus": 100000,
+            "Salmonella": 0,
+            "Kapang": 1000,
+            "Khamir": 1000,
+            "Enterobacteriaceae": 10000,
+            "Clostridium perfringer": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Hakiki Donarta",
+        "Tanggal": "30/11/2023",
+        "Nama Produk": "Food Stabilizer Powder Type JB Condipro PM01",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 0.2,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 100,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Landkrone Indo Nutri",
+        "Tanggal": "30/11/2023",
+        "Nama Produk": "Marmila Vegetable Fat",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Hakiki Donarta",
+        "Tanggal": "8/12/2023",
+        "Nama Produk": "Plain Coconut Water",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.02,
+            "Cd": 0.03,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "E.coli": 1000,
+            "Salmonella":  0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Hakiki Donarta",
+        "Tanggal": "8/12/2023",
+        "Nama Produk": "Plain Coconut Cream 24% dan 30%",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.2,
+            "Cd": 0.03,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 9,
+            "Salmonella": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Sarimas Permai",
+        "Tanggal": "8/12/2023",
+        "Nama Produk": "RBD Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Bilangan Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Maka Jayo SI",
+        "Tanggal": "13/12/2023",
+        "Nama Produk": "Indomie",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.3,
+            "Hg": 0.03,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 3,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. AK Goldenesia",
+        "Tanggal": "18/12/2023",
+        "Nama Produk": "Cacao Powder",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 1.0,
+            "Hg": 0.03,
+            "Cd": 0.85,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. AK Goldenesia",
+        "Tanggal": "18/12/2023",
+        "Nama Produk": "Shortening",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000,
+            "Enterobacter": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Nona Kreasi Pangan",
+        "Tanggal": "20/12/2023",
+        "Nama Produk": "Cracker",
+        "Logam": {
+            "As": 0.01,
+            "Pb": 0.025,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Salmonella":  0,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Sumber Asia",
+        "Tanggal": "27/12/2023",
+        "Nama Produk": "Fish Meal",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.3,
+            "Hg": 0.5,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10,
+            "E.coli": 3.6,
+            "Salmonella": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Prava International",
+        "Tanggal": "29/12/2023",
+        "Nama Produk": "Kunyit Kering Iris",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 100000,
+            "Kapang": 100000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Thea Universal Trade",
+        "Tanggal": "2/1/2024",
+        "Nama Produk": "Galangal, Clove, Longpepper, Papua Mace",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 100000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Adidaya Swasembada",
+        "Tanggal": "9/1/2024",
+        "Nama Produk": "Kayu Manis",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 100000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Adidaya Swasembada",
+        "Tanggal": "9/1/2024",
+        "Nama Produk": "Kemiri",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Berkat Abadi",
+        "Tanggal": "16/1/2024",
+        "Nama Produk": "PAPAD",
+        "Logam": {
+            "As": 0.01,
+            "Pb": 0.025,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Salmonella":  0,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Anugerah Semesta Raya",
+        "Tanggal": "18/1/2024",
+        "Nama Produk": "Frozen Durian Meat",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.2,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "E.coli": 100,
+            "Salmonella":  0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Landkrone Indo Nutri",
+        "Tanggal": "24/1/2024",
+        "Nama Produk": "Mansa Vegetable Fat",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Sari Mas Permai",
+        "Tanggal": "24/1/2024",
+        "Nama Produk": "RBD Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Bilangan Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Aneka Kakao",
+        "Tanggal": "30/1/2024",
+        "Nama Produk": "Cocoa butter",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Indo Vegetable Oil",
+        "Tanggal": "30/1/2024",
+        "Nama Produk": "Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Bilangan Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Damai Karyta Abadi",
+        "Tanggal": "31/1/2024",
+        "Nama Produk": "Susu Kental Manis",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.02,
+            "Hg": 0.02,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 10,
+            "Salmonella": 0,
+            "Stapilococus aureus": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Risalah Jaya Abadi",
+        "Tanggal": "12/2/2024",
+        "Nama Produk": "Buah Tempayang",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": null,
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Hakiki Donarta",
+        "Tanggal": "13/2/2024",
+        "Nama Produk": "Dessicated Coconut Full Fat",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.2,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Paracha Impex",
+        "Tanggal": "15/2/2024",
+        "Nama Produk": "Clove, Nutmeg, Mace, Long Pepper",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Golden Indo Oil",
+        "Tanggal": "29/2/2024",
+        "Nama Produk": "Premium RBD Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Bilangan Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Citra Centra Pacific",
+        "Tanggal": "1/3/2024",
+        "Nama Produk": "Garlic Crackers",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Bumi Berkat",
+        "Tanggal": "7/3/2024",
+        "Nama Produk": "Papua Mace",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.50,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. AK Goldenesia",
+        "Tanggal": "13/3/2024",
+        "Nama Produk": "Shortening",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.10,
+            "Hg": 0.05,
+            "Cd": 0.10,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000,
+            "Enterobacter": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Adidaya Swasembada",
+        "Tanggal": "14/3/2024",
+        "Nama Produk": "Tamarind With Seed",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.50,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Bumifood Industri",
+        "Tanggal": "15/3/2024",
+        "Nama Produk": "Krakz Krupuk",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Yas Exports International",
+        "Tanggal": "18/3/2024",
+        "Nama Produk": "Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Bilangan Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Sari Makmur",
+        "Tanggal": "19/3/2024",
+        "Nama Produk": "Coffee Bean",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 2.0,
+            "Hg": 0.03,
+            "Cd": 0.20,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Aury Makmur",
+        "Tanggal": "21/3/2024",
+        "Nama Produk": "Mie Sedaap Cup Rasa Soto",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.3,
+            "Hg": 0.03,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 3,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "Silverqueen",
+        "Tanggal": "22/3/2024",
+        "Nama Produk": "Almond With Milk Chocolate",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.50,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Yas Exports International",
+        "Tanggal": "22/3/2024",
+        "Nama Produk": "Mie Sedaap Cup Rasa Ayam Jerit",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.3,
+            "Hg": 0.03,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 3,
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "Silverqueen",
+        "Tanggal": "22/3/2024",
+        "Nama Produk": "Almond With Milk Chocolate",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.50,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Yas Exports International",
+        "Tanggal": "25/3/2024",
+        "Nama Produk": "Richwheel Cookies",
+        "Logam": {
+            "As": 0.25,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 50000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Megasurya Mas",
+        "Tanggal": "28/3/2024",
+        "Nama Produk": "Goldbeads",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.10,
+            "Hg": 0.05,
+            "Cd": 0.10,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000,
+            "Enterobacter": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Anugerah Nian G",
+        "Tanggal": "28/3/2024",
+        "Nama Produk": "Mini Oreo Original",
+        "Logam": {
+            "As": 0.25,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 800000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Ambico",
+        "Tanggal": "22/4/2024",
+        "Nama Produk": "Konjac MT Tepung",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 11,
+            "Salmonella": 0,
+            "Bacillus cereus": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Sarana Dinamika Express Indo",
+        "Tanggal": "22/4/2024",
+        "Nama Produk": "Air Kelapa Frozen",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 2.0,
+            "Hg": 0.03,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Anugerah Semesta Raya",
+        "Tanggal": "24/4/2024",
+        "Nama Produk": "Ubi Cilembu",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.20,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 100,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Tri Jaya Tangguh",
+        "Tanggal": "24/4/2024",
+        "Nama Produk": "Coconut Cream",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.02,
+            "Cd": 0.03,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E.coli": 94,
+            "Salmonella": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Komodo Maju Pangan",
+        "Tanggal": "30/4/2024",
+        "Nama Produk": "Krupuk Udang",
+        "Logam": {
+            "As": 0.5,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 0,
+            "Salmonella": 0,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Megasurya Mas",
+        "Tanggal": "8/5/2024",
+        "Nama Produk": "Glycerine",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.10,
+            "Hg": 0.05,
+            "Cd": 0.10,
+            "Sn": 40
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Abason",
+        "Tanggal": "8/5/2024",
+        "Nama Produk": "Moveable Handle Bottle Nipple",
+        "Logam": {
+            "Pb": 0.005,
+            "Cd": 0.002,
+            "Cr": 0.003,
+            "Hg": 0.007
+        },
+        "Peraturan": "PERATURAN BPOM NO. 2 TAHUN 2019 TENTANG KEMASAN PANGAN"
+    },
+    {
+        "Nama Perusahaan": "PT. Lahud Jaya Abadi",
+        "Tanggal": "14/05/2024",
+        "Nama Produk": "Cassava Crackers",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Damai Surya Abadi",
+        "Tanggal": "14/05/2024",
+        "Nama Produk": "Goodday & Nescafe",
+        "Logam": {
+            "As": 1,
+            "Pb": 2,
+            "Hg": 0.03,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Produk": "Okky Jelly Drink",
+        "Logam": {
+            "As": 0.05,
+            "Pb": 0.05,
+            "Hg": 0.01,
+            "Cd": 0.01,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100,
+            "E.coli": 0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Produk": "Nescafe 3 M",
+        "Logam": {
+            "As": 1,
+            "Pb": 1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Nison Indonesia",
+        "Tanggal": "14/05/2024",
+        "Nama Produk": "Fish Meal",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.3,
+            "Hg": 0.5,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 3.6,
+            "Salmonella": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Karunia Abadi Bali",
+        "Tanggal": "16/05/2024",
+        "Nama Produk": "Gula Aren",
+        "Logam": {
+            "As": 0.25,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Damai Karya Abadi",
+        "Tanggal": "17/05/2024",
+        "Nama Produk": "Oreo Dark and White Chocolate",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.10,
+            "Hg": 0.03,
+            "Cd": 0.10,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 50000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. AK Goldenesia",
+        "Tanggal": "22/05/2024",
+        "Nama Produk": "Vegetable Fat",
+        "Logam": {
+            "As": 0.0,
+            "Pb": 0.0,
+            "Hg": 0.0,
+            "Cd": 0.0,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Krispi Industri Indonesia",
+        "Tanggal": "28/05/2024",
+        "Nama Produk": "Superior Crackers",
+        "Logam": {
+            "As": 0.0,
+            "Pb": 0.0,
+            "Hg": 0.0,
+            "Cd": 0.0,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Produk": "Emping Mlinjo",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.20,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "E.coli": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. AK Goldenesia",
+        "Tanggal": "29/05/2024",
+        "Nama Produk": "Vegetable Ghee",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Adidaya Swasembada Agri Makmur",
+        "Tanggal": "29/05/2024",
+        "Nama Produk": "Gula Jawa",
+        "Logam": {
+            "As": 1,
+            "Pb": 2,
+            "Hg": 0.05,
+            "Cd": 0.20,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Daesang Ingredients Indonesia",
+        "Tanggal": "29/05/2024",
+        "Nama Produk": "L/Citrulline dan L/Glutamine",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.25,
+            "Hg": 0.01,
+            "Cd": 0.01,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 5000,
+            "Enterobacter": 0,
+            "Salmonella":  0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Golden Union Oil",
+        "Tanggal": "4/6/2024",
+        "Nama Produk": "RBD Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        }
+    },
+    {
+        "Nama Produk": "Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 0.05
+        }
+    },
+    {
+        "Nama Produk": "Cocoa Powder",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 1.0,
+            "Hg": 0.03,
+            "Cd": 0.85,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Prava International",
+        "Tanggal": "6/6/2024",
+        "Nama Produk": "Kopra (Kelapa Kering)",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.20,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Escherichia Coli": 100,
+            "Kapang x Khamir": 100
+        }
+    },
+    {
+        "Nama Produk": "Kunyit Kering",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.50,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Escherichia Coli": 100,
+            "Kapang x Khamir": 10000,
+            "Salmonella":  0,
+            "Enterobacteriaceae": 1000000,
+            "Bacillus cereus": 100000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Sarimas Permai",
+        "Tanggal": "6/6/2024",
+        "Nama Produk": "RBD Hydrogenated Coconut Oil",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.10,
+            "Hg": 0.05,
+            "Cd": 0.10,
+            "Sn": 40,
+            "Bil Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Surya Sakti",
+        "Tanggal": "10/6/2024",
+        "Nama Produk": "PAPAD (Snacks and Savouries)",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40,
+            "Bil Peroksida": 10
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacteria": 100,
+            "Salmonella":  0,
+            "Stapillococus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Golden Union Oil",
+        "Tanggal": "10/6/2024",
+        "Nama Produk": "Organic RBD Cno",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.10,
+            "Hg": 0.05,
+            "Cd": 0.10,
+            "Sn": 40,
+            "Bil Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Ambico",
+        "Tanggal": "2/5/2023",
+        "Nama Produk": "Dry Conjac Rice",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Escherichia Coli": 100,
+            "Salmonella":  0,
+            "Stapylococus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Mega Surya Mas",
+        "Tanggal": "2/5/2023",
+        "Nama Produk": "HCNO",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Angka Peroksida": 10
+    },
+    {
+        "Nama Perusahaan": "PT. Rajdular Brother",
+        "Tanggal": "2/5/2023",
+        "Nama Produk": "Galangal, Clove, Papua Meel, Long Paper, Nutmeg ABCD",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 0,
+            "Clostridium P": 0,
+            "Kapang x Khamir": 0,
+            "Salmonella":  0,
+            "Enterobacteriaceae": 0,
+            "Bacillus cereus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Damai Karya Abadi",
+        "Tanggal": "5/5/2023",
+        "Nama Produk": "Biscuit (Hello Panda)",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 50000,
+            "Salmonella": 0,
+            "Enterobacteriaceae": 100,
+            "Staphilococur Aurcus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Globa Samudera",
+        "Tanggal": "9/5/2023",
+        "Nama Produk": "Jahe (Ginger)",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Salmonella": 0,
+            "Enterobacteriaceae": 10000,
+            "Bacillus cereus": 0,
+            "Kapang x Khamir": 0,
+            "Clastridium P": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT/CV Anugrah Semesta Raya",
+        "Tanggal": "9/5/2023",
+        "Nama Produk": "Mixfruit Powder",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.20,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "E. Coli": 100,
+            "Kapang x Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT Bintang Tunggal Sejati",
+        "Tanggal": "10/5/2023",
+        "Nama Produk": "coffe beans ek spic grade, robusta java ek-1 ELB Grade, robusta java Ap elb grade",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 2.0,
+            "Hg": 0.03,
+            "Cd": 0.20,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Niar",
+        "Tanggal": "15/5/23",
+        "Nama Produk": "frozen durian Meat",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.20,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "E.coli": 100,
+            "Salmonella": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. AK GOLDENESIA",
+        "Tanggal": "22/5/23",
+        "Nama Produk": "Vegetable sortening",
+        "Logam": {
+            "As": 10.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacteriaceae": 100,
+            "Salmonella": 0,
+            "Stapylococus": 0,
+            "Kapang x Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "RIV Alam Selaras",
+        "Tanggal": "22/5/23",
+        "Nama Produk": "washed fresh ginger",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Salmonella": 0,
+            "Enterobacteriaceae": 10000,
+            "Bacillus cereus": 100000,
+            "Kapang x Khamir": 10000,
+            "Clastridium P": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Landkrone Indo Nutri",
+        "Tanggal": "23/5/23",
+        "Nama Produk": "Marmila Vegetable Fat",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Natural Java Spice",
+        "Tanggal": "23/5/23",
+        "Nama Produk": "Nutmeg Powder",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Salmonella": 0,
+            "Enterobacteriaceae": 10000,
+            "Bacillus cereus": 100000,
+            "Kapang x Khamir": 10000,
+            "Clastridium P": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT Welgrow Indo Persada",
+        "Tanggal": "24/5/23",
+        "Nama Produk": "fresh ginger/jahe",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus cereus": 10000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "Ud. Cahaya Kencana",
+        "Tanggal": "24/5/23",
+        "Nama Produk": "crackers/krupuk",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Salmonella":  0,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Louisiana For East",
+        "Tanggal": "25/5/23",
+        "Nama Produk": "Veggle samosa",
+        "Logam": {
+            "As": 0.25,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.03,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 50000,
+            "Salmonella": 0,
+            "Enterobacteriaceae": 100,
+            "Stapylococus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Rajdular Brother",
+        "Tanggal": "29/5/23",
+        "Nama Produk": "rempah (patchouli leaf, nutmeg BWP, Paua mace, gum damer, clove stems)",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Salmonella": 0,
+            "Enterobacteriaceae": 10000,
+            "Bacillus cereus": 100000,
+            "Kapang x Khamir": 10000,
+            "Clostridium P": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Sionchem global indo",
+        "Tanggal": "29/5/23",
+        "Nama Produk": "crude coconut oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.03,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Angka Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Damai Karya Abadi",
+        "Tanggal": "31/5/23",
+        "Nama Produk": "",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 2,
+            "Hg": 0.03,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Kapang Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Pioneer Indo Spices",
+        "Tanggal": "4/4/2023",
+        "Nama Produk": "long pepper",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Kusuma",
+        "Tanggal": "17/4/23",
+        "Nama Produk": "RHCO",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Angka Peroxide": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Mega Surya Mas",
+        "Tanggal": "18/4/23",
+        "Nama Produk": "soap noodle",
+        "Logam": {
+            "Hg": 0.001,
+            "Alkalinitas": 0.1
+        },
+        "Mikrobiologi": {}
+    },
+    {
+        "Nama Perusahaan": "PT. Thea",
+        "Tanggal": "18/4/24",
+        "Nama Produk": "pala",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Bumi",
+        "Tanggal": "27/4/23",
+        "Nama Produk": "Fish Meal",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.3,
+            "Hg": 0.5,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "E.coli": 3.6,
+            "Salmonella": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Mega Surya Mas",
+        "Tanggal": "28/4/23",
+        "Nama Produk": "voila margarine",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Bacillus cereus": 10000,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Mega Surya Mas",
+        "Tanggal": "28/4/23",
+        "Nama Produk": "renia vital margarine",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Bacillus cereus": 10000,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Mega Surya Mas",
+        "Tanggal": "28/4/23",
+        "Nama Produk": "unoli margarine",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Bacillus cereus": 10000,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Mega Surya Mas",
+        "Tanggal": "28/4/23",
+        "Nama Produk": "alibaba margarine",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Bacillus cereus": 10000,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. All Season",
+        "Tanggal": "1/3/2023",
+        "Nama Produk": "Alkalized cocoa powder",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 1.0,
+            "Hg": 0.03,
+            "Cd": 0.85,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Jejaring Indo Perkasa",
+        "Tanggal": "1/3/2023",
+        "Nama Produk": "kerupuk kampang",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Salmonella":  0,
+            "Kapang": 1000,
+            "Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Jejaring Indo Perkasa",
+        "Tanggal": "1/3/2023",
+        "Nama Produk": "sedap kecap manis",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Salmonella":  0,
+            "E-coli": 3
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Jejaring Indo Perkasa",
+        "Tanggal": "1/3/2023",
+        "Nama Produk": "kerupuk kulit",
+        "Logam": {
+            "As": 0.25,
+            "Pb": 0.50,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Salmonella":  0,
+            "E-coli": 1000,
+            "Clostridium P": 10000,
+            "Staphilococur Aurcus": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Lintas Tujuh Benua",
+        "Tanggal": "7/3/2023",
+        "Nama Produk": "Oreo (blackpink)",
+        "Logam": {
+            "As": 0.25,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "Pt. Sionchem Global Indo",
+        "Tanggal": "16/3/23",
+        "Nama Produk": "RBD Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Angka Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Ambico",
+        "Tanggal": "20/3/23",
+        "Nama Produk": "Konjac Chips",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Enterobacter": 100,
+            "Salmonella":  0,
+            "Stapilococus aureus": 200
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. AK Goldenesia",
+        "Tanggal": "21/3/23",
+        "Nama Produk": "cocoa butter",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacteriaceae": 100,
+            "Salmonella":  0,
+            "Stapylococus": 0,
+            "Kapang x Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Damai Karya Abadi",
+        "Tanggal": "21/3/24",
+        "Produk": [
+            {
+                "Nama Produk": "biscuit",
+                "Logam": {
+                    "As": 0.10,
+                    "Pb": 0.25,
+                    "Hg": 0.03,
+                    "Cd": 0.05,
+                    "Sn": 40
+                },
+                "Mikrobiologi": {
+                    "Alt": 10000,
+                    "Enterobacter": 100,
+                    "Salmonella":  0,
+                    "Stapilococus aureus": 200
+                }
+            },
+            {
+                "Nama Produk": "candy",
+                "Logam": {
+                    "As": 1.0,
+                    "Pb": 1.0,
+                    "Hg": 0.05,
+                    "Cd": 0.5,
+                    "Sn": 40
+                },
+                "Mikrobiologi": {
+                    "Alt": 10000,
+                    "Enterobacteriaceae": 100,
+                    "Salmonella":  0,
+                    "Kapang x Khamir": 100
+                }
+            }
+        ]
+    },
+    {
+        "Nama Perusahaan": "PT. Bumi Berkat",
+        "Tanggal": "21/3/23",
+        "Nama Produk": "bunga pala, cloves",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. AK Goldenesia",
+        "Tanggal": "24/3/23",
+        "Nama Produk": "vegetable shortening ghee",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000,
+            "Enterobacteriaceae": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT Mega Surya Mas",
+        "Tanggal": "24/3/23",
+        "Nama Produk": "super q margarine",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Bacillus cereus": 10000,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Citracentra Pacivic",
+        "Tanggal": "27/3/23",
+        "Produk": [
+            {
+                "Nama Produk": "Alfiah Colored craves round",
+                "Logam": {
+                    "As": 0.1,
+                    "Pb": 0.25,
+                    "Hg": 0.03,
+                    "Cd": 0.01,
+                    "Sn": 40
+                },
+                "Mikrobiologi": {
+                    "Alt": 10000,
+                    "Enterobacter": 100,
+                    "Salmonella": 0,
+                    "Stapilococus aureus": 200
+                }
+            },
+            {
+                "Nama Produk": "Alfiah Colored craves square",
+                "Logam": {
+                    "As": 0.1,
+                    "Pb": 0.25,
+                    "Hg": 0.03,
+                    "Cd": 0.01,
+                    "Sn": 40
+                },
+                "Mikrobiologi": {
+                    "Alt": 10000,
+                    "Enterobacter": 100,
+                    "Salmonella": 0,
+                    "Stapilococus aureus": 200
+                }
+            },
+            {
+                "Nama Produk": "sakura garlic lose 10 kg witc",
+                "Logam": {
+                    "As": 0.1,
+                    "Pb": 0.25,
+                    "Hg": 0.03,
+                    "Cd": 0.01,
+                    "Sn": 40
+                },
+                "Mikrobiologi": {
+                    "Alt": 10000,
+                    "Enterobacter": 100,
+                    "Salmonella": 0,
+                    "Stapilococus aureus": 200
+                }
+            },
+            {
+                "Nama Produk": "sakura garlic lose 10 kg colours",
+                "Logam": {
+                    "As": 0.1,
+                    "Pb": 0.25,
+                    "Hg": 0.03,
+                    "Cd": 0.01,
+                    "Sn": 40
+                },
+                "Mikrobiologi": {
+                    "Alt": 10000,
+                    "Enterobacter": 100,
+                    "Salmonella": 0,
+                    "Stapilococus aureus": 200
+                }
+            }
+        ]
+    },
+    {
+        "Nama Perusahaan": "PT Landkrore Indo Nutri",
+        "Tanggal": "28/3/23",
+        "Nama Produk": "Margarita Vegetable Fat",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacter": 100,
+            "Salmonella": 0,
+            "Kapang": 100,
+            "Khamir": 100,
+            "Stapilococus aureus": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Bintang Tunggal Sejati",
+        "Tanggal": "28/3/24",
+        "Nama Produk": "Robusta AP ELB GR T",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 2.0,
+            "Hg": 0.03,
+            "Cd": 0.20,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Mega Surya Mas",
+        "Tanggal": "28/3/25",
+        "Nama Produk": "Soap eversi mta",
+        "Logam": {
+            "Hg": 0.001,
+            "Alkalinitas": 0.1
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Hakiki Donarta",
+        "Tanggal": "31/3/23",
+        "Produk": [
+            {
+                "Nama Produk": "Plain Coconut Cream",
+                "Logam": {
+                    "As": 0.1,
+                    "Pb": 0.1,
+                    "Hg": 0.02,
+                    "Cd": 0.03,
+                    "Sn": 40
+                },
+                "Mikrobiologi": {
+                    "Alt": 100000,
+                    "E.coli": 94,
+                    "Salmonella": 0
+                }
+            },
+            {
+                "Nama Produk": "Plain coconut water",
+                "Logam": {
+                    "As": 0.1,
+                    "Pb": 0.1,
+                    "Hg": 0.02,
+                    "Cd": 0.03,
+                    "Sn": 40
+                },
+                "Mikrobiologi": {
+                    "E.coli": 1000,
+                    "Salmonella": 0
+                }
+            }
+        ]
+    },
+    {
+        "Nama Perusahaan": "PT. Mega Surya Mas",
+        "Tanggal": "2/6/2023",
+        "Nama Produk": "Shortening",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 100000,
+            "Enterobacteriaceae": 100,
+            "Salmonella":  0,
+            "Stapylococus": 0,
+            "Kapang Khamir": 100
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. GMJ Global Win Pax",
+        "Tanggal": "2/5/2023",
+        "Nama Produk": "instant coffee",
+        "Logam": {
+            "As": 1.0,
+            "Pb": 2.0,
+            "Hg": 0.03,
+            "Cd": 0.2,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 10000,
+            "Kapang Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Natural Java Space",
+        "Tanggal": "2/9/2023",
+        "Nama Produk": "Mace",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Sari Mas Permai",
+        "Tanggal": "2/13/2023",
+        "Nama Produk": "RBD Coconut Oil",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.1,
+            "Hg": 0.05,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Angka Peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. JA Trans",
+        "Tanggal": "2/17/2023",
+        "Nama Produk": "Nutmeg",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Alt": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella": 0,
+            "Bacillus cereus": 100000,
+            "Clostridium perfringer": 10000,
+            "Kapang": 10000,
+            "Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Tan Tirta Sejahtera",
+        "Tanggal": "6/11/2024",
+        "Nama Produk": "Air Kelapa",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.10,
+            "Hg": 0.02,
+            "Cd": 0.03,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Salmonella":  0,
+            "E.coli": 0
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Rajawali Penta Nusantara",
+        "Tanggal": "6/20/2024",
+        "Nama Produk": "Dry Konjac Chips",
+        "Logam": {
+            "As": 0.1,
+            "Pb": 0.25,
+            "Hg": 0.03,
+            "Cd": 0.05,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "ALT": 10000,
+            "E.Coli": 10,
+            "Kapang Khamir": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT Paracha Impex",
+        "Tanggal": "6/24/2024",
+        "Nama Produk": "Clove Galangal",
+        "Logam": {
+            "As": 0.15,
+            "Pb": 1.0,
+            "Hg": 0.05,
+            "Cd": 0.5,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "ALT": 1000000,
+            "Enterobacter": 10000,
+            "Salmonella":  0,
+            "Bacillus A": 100000,
+            "Clostridium Perifinger": 10000,
+            "Kapang Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT Golde Union Oil",
+        "Tanggal": "6/24/2024",
+        "Nama Produk": "Hydrogenated Coconut Oil",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.10,
+            "Hg": 0.05,
+            "Cd": 0.10,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "Bilangan peroksida": 10
+        }
+    },
+    {
+        "Nama Perusahaan": "PT Sumber Asia Trading",
+        "Tanggal": "6/26/2024",
+        "Nama Produk": "Fish Meal",
+        "Logam": {
+            "As": 0.10,
+            "Pb": 0.3,
+            "Hg": 0.5,
+            "Cd": 0.1,
+            "Sn": 40
+        },
+        "Mikrobiologi": {
+            "ALT": 1000000,
+            "Salmonella":  0,
+            "E.coli": 3.6
+        }
+    },
+    {
+        "Nama Perusahaan": "PT. Damai Karya Abadi",
+        "Tanggal": "02/07/2024",
+        "Produk": [
+            {
+                "Nama Produk": "Ritz Chocolate Biscuit",
+                "Logam": {
+                    "As": 0.25,
+                    "Pb": 0.25,
+                    "Hg": 0.03,
+                    "Cd": 0.05,
+                    "Sn": 40
+                },
+                "Mikrobiologi": {
+                    "ALT": 50000,
+                    "Salmonella":  0,
+                    "Enterobacteriaceae": 100,
+                    "Staphylococcus": 200
+                }
+            },
+            {
+                "Nama Produk": "Permen Fox",
+                "Logam": {
+                    "As": 0.10,
+                    "Pb": 0.10,
+                    "Hg": 0.05,
+                    "Cd": 0.50,
+                    "Sn": 40
+                },
+                "Mikrobiologi": {
+                    "Alt": 10000,
+                    "Enterobacter": 100,
+                    "Salmonella": 0,
+                    "Kapang Khamir": 100
+                }
+            },
+            {
+                "Nama Produk": "Maxicorn Roasted corn flavour",
+                "Logam": {
+                    "As": 0.1,
+                    "Pb": 0.25,
+                    "Hg": 0.03,
+                    "Cd": 0.05,
+                    "Sn": 40
+                },
+                "Mikrobiologi": {
+                    "ALT": 10000,
+                    "Salmonella":  0,
+                    "Enterobacteriaceae": 100,
+                    "Staphylococcus": 200
+                }
+            }
+        ]
+    },
+    {
+        "Nama Perusahaan": "PT. Mahajaya Suksesindo",
+        "Tanggal": "02/07/2024",
+        "Produk": [
+            {
+                "Nama Produk": "Permen kopiko cappucino",
+                "Logam": {
+                    "As": 1.0,
+                    "Pb": 1.0,
+                    "Hg": 0.05,
+                    "Cd": 0.5,
+                    "Sn": 40
+                }
+            },
+            {
+                "Nama Produk": "Milkita permen rasa coklat",
+                "Logam": {
+                    "As": 1.0,
+                    "Pb": 1.0,
+                    "Hg": 0.05,
+                    "Cd": 0.5,
+                    "Sn": 40
+                }
+            }
+        ]
+    },
+    {
+        "Nama Perusahaan": "PT. Mahajaya Suksesindo",
+        "Tanggal": "7/2/2024",
+        "Nama Produk": "Kodomo Baby Powder (PerBPOM No 12 Tahun 2019) Tentang Cemaran dalam Kosmetika",
+        "Logam": {
+            "As": 5.0,
+            "Pb": 20.0,
+            "Hg": 1.0,
+            "Cd": 5.0
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Karunia Lumbung",
+        "Tanggal": "7/8/2024",
+        "Nama Produk": "Kerupuk Bawang Kering",
+        "Logam": {
+            "Pb": 20
+        },
+        "Mikrobiologi": {
+            "ALT": 1000000,
+            "Salmonella":  0,
+            "E.coli": 0,
+            "Kapang Khamir": 1000
+        }
+    },
+    {
+        "Nama Perusahaan": "CV. Agro Mega",
+        "Tanggal": "7/9/2024",
+        "Nama Produk": "Clover (Cengkeh)",
+        "Logam": {
+            "Hg": 1.0
+        },
+        "Mikrobiologi": {
+            "ALT": 1000000,
+            "Salmonella":  0,
+            "Enterobacter": 10000,
+            "Bacillus Cereus": 100000,
+            "Clostridium Perifinger": 10000,
+            "Kapang Khamir": 10000
+        }
+    },
+    {
+        "Nama Perusahaan": "PT Golden Union Oil",
+        "Tanggal": "7/16/2024",
+        "Nama Produk": "Super Premium RBD",
+        "Logam": {
+            "Cd": 5.0
+        },
+        "Mikrobiologi": {
+            "Bilangan Peroksida": 10
+        }
+    }
+]
